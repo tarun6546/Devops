@@ -2,4 +2,4 @@
 Start
 Complete linux
 github
-cicd
+ci/cd
