@@ -6,6 +6,6 @@ ci/cd
 teraform
 docker
 Container
-pipelines
+pipeline
 Jenkins
 etc
