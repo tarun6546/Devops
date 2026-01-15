@@ -7,5 +7,5 @@ teraform
 docker
 Container
 pipeline
-Jenkins
+Jenkin
 
