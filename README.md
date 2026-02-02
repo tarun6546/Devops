@@ -8,5 +8,5 @@ docker
 Container
 pipeline
 Jenkiteraform
-etc
+et
 kotlins
