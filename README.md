@@ -10,3 +10,4 @@ pipeline
 Jenkiteraform
 etc
 kotlin
+jira
