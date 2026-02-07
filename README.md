@@ -10,4 +10,4 @@ pipeline
 Jenkiteraform
 etc
 kotlin
-jira
+jira7
