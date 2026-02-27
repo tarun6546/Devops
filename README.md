@@ -7,6 +7,7 @@ teraform
 docker
 Container
 pipeline
+and
 Jenkiteraforms
 etc
 kotlins
