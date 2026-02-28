@@ -8,7 +8,7 @@ docker
 Container
 pipeline
 and
-Jenkiteraforms
+Jenkiteraform
 etc
 kotlins
 linux
