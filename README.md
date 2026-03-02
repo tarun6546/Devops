@@ -6,7 +6,7 @@ ci/cd
 teraform
 Container
 pipeline
-and
+a
 Jenkiteraform
 etc
 kotlins
