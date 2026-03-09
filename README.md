@@ -5,7 +5,7 @@ github
 ci/cd
 teraform
 ContainerS
-pipeline
+pipelines
 
 
 Jenkiteraform
