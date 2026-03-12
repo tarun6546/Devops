@@ -6,7 +6,6 @@ ci/cd
 teraform
 Container
 pipelines
-d
 
 Jenkiteraform
 etc
