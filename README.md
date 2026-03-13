@@ -8,7 +8,7 @@ Container
 pipelines
 
 Jenkiteraform
-etc
+
 kotlins
 linux
 etc
