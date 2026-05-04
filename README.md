@@ -6,7 +6,6 @@ ci/cd
 teraform
 Container
 pipeline
-h
 Jenkiteraformm
 
 kotlins
