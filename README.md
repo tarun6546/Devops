@@ -7,7 +7,6 @@ teraform
 Container
 pipeline
 Jenkiteraformm
-
 kotlins
 linux
 etc
